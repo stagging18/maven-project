@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * This is a class.
+ * This is a class. now use it using GIT Gui
  */
 public class Greeter {
 
